@@ -1,0 +1,14 @@
+# IDE и окружение
+.idea/
+.venv/
+
+# Результаты сборки
+build/
+dist/
+
+# Файлы данных (если не нужны в репо)
+*.xlsx
+*.pyc
+__pycache__/
+*.spec
+structure.txt
